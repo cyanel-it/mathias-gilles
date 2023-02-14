@@ -1,6 +1,6 @@
 # mathias-gilles
 
-## How it works
+## Practice 2
 
 ### Create NameSpace
 
